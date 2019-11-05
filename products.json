@@ -1,0 +1,33 @@
+{
+	"products" : [
+		{
+			"name" : "Awesome T-shirt",
+			"price" : "40.00",
+			"options" : [
+				{ "Size" : "P,M,G,GG" }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "This is a very awesome grey T-shirt"
+		},
+		{
+			"name" : "Cool T-shirt",
+			"price" : "20.00",
+			"options" : [
+				{ "Size" : "P,M,G,GG" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "Fun T-shirt",
+			"price" : "ESGOTADO",
+			"options" : [
+				{ "Size" : "" }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "This is another fun grey T-shirt"
+		}
+	]
+}
